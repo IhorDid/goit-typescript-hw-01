@@ -4,3 +4,5 @@ uniType = 10;
 
 let oneOfValue: "enable" | "disable";
 oneOfValue = "enable";
+
+console.log(oneOfValue);

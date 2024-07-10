@@ -26,3 +26,6 @@ const page2: Pages = {
   accounts: ["Alex"],
   status: "close",
 };
+
+console.log(page1);
+console.log(page2);
