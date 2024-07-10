@@ -6,3 +6,4 @@ let oneOfValue: "enable" | "disable";
 oneOfValue = "enable";
 
 console.log(oneOfValue);
+console.log(uniType);

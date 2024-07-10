@@ -12,3 +12,8 @@ toggle = true;
 empty = null;
 
 callback(100);
+
+console.log(age);
+console.log(userName);
+console.log(toggle);
+console.log(empty);
